@@ -1,8 +1,8 @@
 body {
-    color: rgb(241, 78, 105);
-    background: rgb(20, 19, 19);
+    color: rgb(41, 15, 27);
+    background: rgb(211, 149, 195);
     margin: 20px;
-
+    font-family: "Matemasie", sans-serif;
 
     header {
         border-bottom: solid 2px rgb(196, 26, 130) PINK;
@@ -11,7 +11,7 @@ body {
         color: rgb(196, 26, 130)
     }
     section {
-        background: rgb(247, 93, 170);
+        background: rgb(230, 90, 160);
         padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
@@ -20,4 +20,7 @@ body {
     .chamada-texto {
         margin-right:  5%;
     }
+}
+h1 { 
+    font-size: 32px;
 }
